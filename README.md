@@ -124,4 +124,3 @@ sequenceDiagram
     La aplicación se iniciará en `http://localhost:8080`.
 
 ---
-*Documentación generada automáticamente basada en los recursos del proyecto.*
